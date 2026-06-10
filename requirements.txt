@@ -4,5 +4,6 @@ pillow
 opencv-python-headless
 matplotlib
 scikit-learn
-
+mtcnn
+tensorflow
 keras
