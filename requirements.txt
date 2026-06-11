@@ -7,3 +7,4 @@ scikit-learn
 mtcnn
 tensorflow
 keras
+keras-facenet
